@@ -1,0 +1,16 @@
+export const STRING = {
+  vacation: "Vacation",
+  start: "Start",
+  post: "Post",
+  location: "Denpasar, Bali",
+  welcomeText: "Add Post",
+  searchPlaceholder: "Search Movies",
+  titlePlaceholder: "Enter your title",
+  descriptionPlaceholder: "Enter your description",
+  popular: "Popular",
+  nearestPlaces: "Nearest Places",
+  route: "Route",
+  title: "Title",
+  description: "Description",
+  noData: "No Movies found !",
+};
